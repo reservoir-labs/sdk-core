@@ -1,5 +1,5 @@
 {
-  "name": "@reservoir/sdk-core",
+  "name": "@reservoir-labs/sdk-core",
   "license": "MIT",
   "version": "3.1.0",
   "description": "⚒️ An SDK for building applications on top of Reservoir",
@@ -8,7 +8,10 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/Reservoir-Labs/sdk-core.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reservoir-Labs/sdk-core.git"
+  },
   "keywords": [
     "reservoir",
     "ethereum"
@@ -40,5 +43,10 @@
     "printWidth": 120,
     "semi": false,
     "singleQuote": true
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/Reservoir-Labs/sdk-core/issues"
+  },
+  "homepage": "https://github.com/Reservoir-Labs/sdk-core#readme",
+  "author": ""
 }
