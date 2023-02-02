@@ -14,5 +14,9 @@ export const WETH9: { [chainId: number]: Token } = {
   [69]: new Token(69, '0x4200000000000000000000000000000000000006', 18, 'WETH', 'Wrapped Ether'),
 
   [42161]: new Token(42161, '0x82aF49447D8a07e3bd95BD0d56f35241523fBab1', 18, 'WETH', 'Wrapped Ether'),
-  [421611]: new Token(421611, '0xB47e6A5f8b33b3F17603C83a0535A9dcD7E32681', 18, 'WETH', 'Wrapped Ether')
+  [421611]: new Token(421611, '0xB47e6A5f8b33b3F17603C83a0535A9dcD7E32681', 18, 'WETH', 'Wrapped Ether'),
+
+  // got this from testnet.snowtrace.io searching WAVAX, might not be a real WAVAX contract
+  [43113]: new Token(43113, '0x1D308089a2D1Ced3f1Ce36B1FcaF815b07217be3', 18, 'WAVAX', 'Wrapped AVAX'),
+  [43114]: new Token(43114, '0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7', 18, 'WAVAX', 'Wrapped AVAX')
 }

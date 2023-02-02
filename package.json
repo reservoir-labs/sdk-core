@@ -8,10 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Reservoir-Labs/sdk-core.git"
-  },
+  "repository": "https://github.com/reservoir-labs/sdk-core.git",
   "keywords": [
     "reservoir",
     "ethereum"
