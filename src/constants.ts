@@ -4,7 +4,7 @@ export enum SupportedChainId {
   // AVAX = 43114,
   // AVAX_TESTNET = 43113
   ARBITRUM = 42161,
-  ARBITRUM_SEPOLIA = 421614,
+  ARBITRUM_SEPOLIA = 421614
 }
 
 // exports for external consumption
