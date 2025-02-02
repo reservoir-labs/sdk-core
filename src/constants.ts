@@ -1,8 +1,6 @@
 import JSBI from 'jsbi'
 
 export enum SupportedChainId {
-  // AVAX = 43114,
-  // AVAX_TESTNET = 43113
   ARBITRUM = 42161,
   ARBITRUM_SEPOLIA = 421614,
 }
