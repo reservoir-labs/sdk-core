@@ -2,7 +2,7 @@ import JSBI from 'jsbi'
 
 export enum SupportedChainId {
   ARBITRUM = 42161,
-  ARBITRUM_SEPOLIA = 421614,
+  ARBITRUM_SEPOLIA = 421614
 }
 
 // exports for external consumption
