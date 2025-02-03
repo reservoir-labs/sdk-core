@@ -1,7 +1,7 @@
 {
   "name": "@reservoir-labs/sdk-core",
   "license": "MIT",
-  "version": "3.2.0",
+  "version": "3.2.2",
   "description": "⚒️ An SDK for building applications on top of Reservoir",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -25,7 +25,7 @@
     "@ethersproject/address": "^5.0.2",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
-    "jsbi": "^3.1.4",
+    "jsbi": "3.1.4",
     "tiny-invariant": "^1.1.0",
     "toformat": "^2.0.0"
   },
